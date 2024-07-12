@@ -2,3 +2,5 @@
 print("First python")
 
 # HELLLOOOOOOo
+
+print("All collaborators will be shot")
